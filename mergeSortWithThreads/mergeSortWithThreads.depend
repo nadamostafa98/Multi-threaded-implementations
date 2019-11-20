@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1572012581 source:/home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/mergeSortWithThreads/main.cpp
+	<iostream>
+	"Reading.h"
+	"mergeSort.h"
+
+1572004469 /home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/mergeSortWithThreads/include/Reading.h
+
+1572012270 source:/home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/mergeSortWithThreads/src/mergeSort.cpp
+	"mergeSort.h"
+	"pthread.h"
+	"Reading.h"
+	<iostream>
+
+1572011467 /home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/mergeSortWithThreads/include/mergeSort.h
+
+1572012397 source:/home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/mergeSortWithThreads/src/Reading.cpp
+	"Reading.h"
+	<iostream>
+	<stdio.h>
+

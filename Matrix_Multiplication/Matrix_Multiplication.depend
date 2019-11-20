@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1571951825 source:/home/nada/Documents/Matrix_Multiplication/main.cpp
+	<iostream>
+	"Variation1.h"
+	"read.h"
+	"Variation2.h"
+
+1571948176 /home/nada/Documents/Matrix_Multiplication/include/Variation1.h
+	<time.h>
+
+1571951425 source:/home/nada/Documents/Matrix_Multiplication/src/Variation1.cpp
+	"Variation1.h"
+	<iostream>
+	<pthread.h>
+	<time.h>
+	"read.h"
+
+1571939073 /home/nada/Documents/Matrix_Multiplication/include/read.h
+
+1571949754 source:/home/nada/Documents/Matrix_Multiplication/src/read.cpp
+	<iostream>
+	<stdio.h>
+	"read.h"
+	"Variation1.h"
+
+1571951885 source:/home/nada/Documents/Matrix_Multiplication/src/Variation2.cpp
+	"Variation2.h"
+	"read.h"
+	"pthread.h"
+	<iostream>
+	"time.h"
+
+1571948314 /home/nada/Documents/Matrix_Multiplication/include/Variation2.h
+	"time.h"
+
+1572013396 source:/home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/Matrix_Multiplication/main.cpp
+	<iostream>
+	"Variation1.h"
+	"read.h"
+	"Variation2.h"
+
+1571948176 /home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/Matrix_Multiplication/include/Variation1.h
+	<time.h>
+
+1572013417 /home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/Matrix_Multiplication/include/read.h
+
+1571948314 /home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/Matrix_Multiplication/include/Variation2.h
+	"time.h"
+
+1572013506 source:/home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/Matrix_Multiplication/src/read.cpp
+	<iostream>
+	<stdio.h>
+	"read.h"
+	"Variation1.h"
+
+1572013873 source:/home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/Matrix_Multiplication/src/Variation1.cpp
+	"Variation1.h"
+	<iostream>
+	<pthread.h>
+	<time.h>
+	"read.h"
+
+1572014237 source:/home/nada/Documents/CSEDterm5/OperatingSystems/Labs/OS_Lab2/Matrix_Multiplication/src/Variation2.cpp
+	"Variation2.h"
+	"read.h"
+	"pthread.h"
+	<iostream>
+	"time.h"
+
